@@ -1,8 +1,10 @@
 # pose_detector
 A human pose and hand gesture recognition system built with TensorFlow and MediaPipe.
-Overview
-pose_detector is an advanced computer vision project that combines the power of TensorFlow and MediaPipe to detect and interpret human body language. The system extracts key landmarks from both full-body poses and hand movements, then applies a dual-approach analysis using rule-based inference and machine learning models to understand and classify human actions.
-Features
+Overview：
+pose_detector is an advanced computer vision project that combines the power of TensorFlow and MediaPipe to detect and interpret human body language. 
+The system extracts key landmarks from both full-body poses and hand movements, then applies a dual-approach analysis using rule-based inference and 
+machine learning models to understand and classify human actions.
+Features：
 Real-time extraction of human body landmarks using MediaPipe
 Detailed hand gesture recognition with 21 key points per hand
 Dual analysis system:
