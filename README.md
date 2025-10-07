@@ -14,5 +14,5 @@ TensorFlow integration for model training and inference
 Support for both image and video input processing
 
 完整版文件可以通过百度网盘连接下载：
-通过网盘分享的文件：pose_d
+通过网盘分享的文件：pose_detector
 链接: https://pan.baidu.com/s/18-cK5U9nV_qHFE2AtRkvIQ?pwd=e3t9 提取码: e3t9 
